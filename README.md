@@ -1,3 +1,9 @@
+# Repo for assignment 2 of the 2nd module (Security in Software) of CiberSecurity course
+
+
+
+# Original Juice-Shop readme down below:
+
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
